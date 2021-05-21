@@ -1,5 +1,16 @@
 # TextRecognizer
-Android app for recognising text from images with support for speech output using Google's Vision API for ML Kit.
+Android app for recognising text from images with support for speech output using Google's Vision API for ML Kit. 
+
+## Libraries and APIs used:
+
+- Paging 3 for retrieving PagingData from Room.
+- Jetpack Navigation component (Single activity app architecture)
+- Vision API
+- Kotlin Flows, Channels and Coroutines
+
+### Architecture used:
+
+- MVVM (Model View ViewModel)
 
 ## :camera_flash: App Demo
 
